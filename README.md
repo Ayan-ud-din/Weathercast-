@@ -1,4 +1,4 @@
-🌤️ WeatherCast
+🌤️ **Weathercast**
 
 A simple and modern weather forecasting web app built with HTML, CSS, and JavaScript, powered by WeatherAPI.
 
